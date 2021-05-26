@@ -1,5 +1,7 @@
 ### 📖 Languages I Know
-- Java (Beginer)
+- Typescript (Beginner)
+- Golang (Beginner)
+- Java (Advanced-Intermediate)
 - Python (Advanced)
 
 ### 💻 My GitHub Stats
