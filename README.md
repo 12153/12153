@@ -3,6 +3,7 @@
 - Golang (Beginner-Intermediate)
 - Java (Advanced-Intermediate)
 - Python (Advanced)
+- Shell-scripting (Advanced-Intermediate)
 
 ### 💻 My GitHub Stats
 
