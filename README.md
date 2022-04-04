@@ -1,6 +1,6 @@
 ### 📖 Languages I Know
-- Typescript (Beginner)
-- Golang (Beginner-Intermediate)
+- Typescript (Intermediate)
+- Golang (Intermediate)
 - Java (Advanced-Intermediate)
 - Python (Advanced)
 - Shell-scripting (Advanced-Intermediate)
