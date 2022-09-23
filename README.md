@@ -16,5 +16,6 @@
 
 ### 👨‍🎓 More About Me
 
-- 🌱 I’m currently a student studying at ***WeThinkCode_*** but I hope to some day be a software developer/engineer working in the industry. 
+- 🌱 ***WeThinkCode_*** alumni. 
+- Junior software developer
 
