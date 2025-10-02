@@ -25,3 +25,17 @@
 Languages: Go, Rust, TypeScript, Python, Lua, SQL
 Frameworks: Hummingbird, Wisp, Next.js, SvelteKit, gRPC
 Tools: Neovim, Rspack, Docker, Air, Tailwind, Deno
+
+
+<div align="center">
+
+
+
+
+
+
+
+
+
+
+</div>
