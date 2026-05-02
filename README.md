@@ -1,7 +1,7 @@
 <!-- 🌌 Aidan's Cosmic README -->
 <div align="center">
 
-# 🪶 Aidan Sardie — Code Alchemist, Oceanic Dreamer 🌊
+# 🪶 Aidan Sardie — Code Alchemist 🌊
 
 *"I don’t just write code — I whisper to the compiler and it whispers back."*
 
@@ -14,7 +14,6 @@
 ## ⚡ About Me
 - 🧠 I make ideas touch reality — mostly in **Go**, **Rust**, and **TypeScript**  
 - 🕊 Currently crafting frameworks that blur the line between **frontend** and **backend**  
-- 🌙 I enjoy making **tiny LMs**, **terminal tools**, and **3D worlds** that feel alive  
 - 💡 Philosophy: *Speed is only holy if it heads in the right direction*  
 - 🧰 Tech stack: `Go` · `HTMX` · `Rust` · `Templ` · `Next.js`
 
@@ -23,8 +22,8 @@
 ## 🛠 Toolbox of Arcane Arts
 ```text
 Languages: Go, Rust, TypeScript, Python, Lua, SQL
-Frameworks: Hummingbird, Wisp, Next.js, SvelteKit, gRPC
-Tools: Neovim, Rspack, Docker, Air, Tailwind, Deno
+Frameworks: Hummingbird, Next.js, gRPC
+Tools: Neovim, Rspack, Docker, Air, Tailwind, Bun
 ```
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=12153" alt="GitHub Streak" /></a>
