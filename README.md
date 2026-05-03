@@ -10,10 +10,6 @@
 
 ---
 
-![Static Badge](https://img.shields.io/badge/)
-
----
-
 [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,wasm,tailwind,golang,astro,nextjs,react)](https://skillicons.dev)
 
 ---
