@@ -11,11 +11,7 @@
 
 ---
 
-## ⚡ About Me
-- 🧠 I make ideas touch reality — mostly in **Go**, **Rust**, and **TypeScript**  
-- 🕊 Currently crafting frameworks that blur the line between **frontend** and **backend**  
-- 💡 Philosophy: *Speed is only holy if it heads in the right direction*  
-- 🧰 Tech stack: `Go` · `HTMX` · `Rust` · `Templ` · `Next.js`
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,wasm,tailwind,golang,astro,nextjs,react)](https://skillicons.dev)
 
 ---
 
