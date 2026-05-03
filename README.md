@@ -1,4 +1,3 @@
-<!-- 🌌 Aidan's Cosmic README -->
 <div align="center">
 
 # 🪶 Aidan Sardie — Code Alchemist 🌊
@@ -8,6 +7,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=30B0B0&center=true&vCenter=true&width=500&lines=Building+strange+and+beautiful+things;Exploring+conceptual+spaces;Breathing+code%2C+dreaming+in+syntax;Always+shipping%2C+never+settling)](https://git.io/typing-svg)
 
 </div>
+
+---
+
+![Static Badge](https://img.shields.io/badge/)
 
 ---
 
