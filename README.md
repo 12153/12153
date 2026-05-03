@@ -15,9 +15,3 @@
 
 ---
 
-## 🛠 Toolbox of Arcane Arts
-```text
-Languages: Go, Rust, TypeScript, Python, Lua, SQL
-Frameworks: Hummingbird, Next.js, gRPC
-Tools: Neovim, Rspack, Docker, Air, Tailwind, Bun
-```
