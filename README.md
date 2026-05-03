@@ -25,5 +25,3 @@ Languages: Go, Rust, TypeScript, Python, Lua, SQL
 Frameworks: Hummingbird, Next.js, gRPC
 Tools: Neovim, Rspack, Docker, Air, Tailwind, Bun
 ```
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=12153" alt="GitHub Streak" /></a>
